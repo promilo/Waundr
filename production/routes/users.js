@@ -65,7 +65,7 @@ module.exports = () => {
   router.get('/auth/google/callback',
     passport.authenticate('google', { failureRedirect: '/login' }),
     function(req, res) {
-      console.log("req")
+      console.log("req=> ", req)
       res.redirect('/');
     });
 
