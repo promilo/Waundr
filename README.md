@@ -1,8 +1,26 @@
 Waundr
 =====================
 
-A real time social walking experience.
+A real time social walking experience. Take a look at our demo at https://www.waundr.com
 
+### How it works
+
+At the landing page the user can login either by google or facebook.
+
+!["Screenshot of the landing page"](https://github.com/promilo/Waundr/blob/master/docs/login.png)
+
+When logging in, the users can create markers and it will broadcast to others users in real time by websockets secure.
+
+!["Gif for creating marker"](https://github.com/promilo/Waundr/blob/master/docs/createMarker.gif)
+
+Also the app fetches data from the meet up api so its already populated for first time users.
+In addition the users can also confirm the event by clicking on the number or reject the event by clicking on the clear sign
+
+!["Gif for marker"](https://github.com/promilo/Waundr/blob/master/docs/meetup.gif)
+
+The app also allows to filter events near you. You can do this by the filter button at the bottom right hand corner.
+
+!["Gif for marker"](https://github.com/promilo/Waundr/blob/master/docs/filterv3.gif)
 ### Loading Waundr
 
 In order to run this you must first create a .env file.
