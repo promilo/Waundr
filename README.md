@@ -72,7 +72,6 @@ react-native run-ios; // react-native run-andriod
 * "cookie-parser": "^1.4.3",
 * "cors": "^2.8.3",
 * "dotenv": "^4.0.0",
-* "express": "^4.15.3",
 * "express-session": "^1.15.3",
 * "node-craigslist": "^1.1.2",
 * "passport": "^0.3.2",
