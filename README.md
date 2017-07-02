@@ -1,7 +1,7 @@
 Waundr
 =====================
 
-A real time social walking experience. Take a look at our demo at https://www.waundr.com
+A real time social walking experience. Take a look at our demo at www.waundr.com
 
 ### How it works
 
