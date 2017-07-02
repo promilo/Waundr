@@ -20,7 +20,7 @@ In addition the users can also confirm the event by clicking on the number or re
 
 The app also allows to filter events near you. You can do this by the filter button at the bottom right hand corner.
 
-!["Gif for marker"](http://www.giphy.com/gifs/3og0IKYvIaDRYICBQ4.gif)
+!["Gif for marker"](https://github.com/promilo/Waundr/blob/master/gif/filter.gif)
 ### Loading Waundr
 
 In order to run this you must first create a .env file.
