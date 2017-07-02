@@ -10,6 +10,7 @@ At the landing page the user can login either by google or facebook.
 !["Screenshot of the landing page"](https://github.com/promilo/Waundr/blob/master/gif/login.png)
 
 When logging in, the users can create markers and it will broadcast to others users in real time by websockets secure.
+Real time meaning that other uses does not need to refresh the page to get the latest updates.
 
 !["Gif for creating marker"](https://github.com/promilo/Waundr/blob/master/gif/createMarker.gif)
 
