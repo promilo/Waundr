@@ -16,11 +16,11 @@ When logging in, the users can create markers and it will broadcast to others us
 Also the app fetches data from the meet up api so its already populated for first time users.
 In addition the users can also confirm the event by clicking on the number or reject the event by clicking on the clear sign
 
-!["Gif for marker"](https://github.com/promilo/Waundr/blob/master/photos/meetup.gif)
+!["Gif for meetup"](https://github.com/promilo/Waundr/blob/master/gif/meetup.gif)
 
 The app also allows to filter events near you. You can do this by the filter button at the bottom right hand corner.
 
-!["Gif for marker"](https://github.com/promilo/Waundr/blob/master/gif/filter.gif)
+!["Gif for filter"](https://github.com/promilo/Waundr/blob/master/gif/filter.gif)
 ### Loading Waundr
 
 In order to run this you must first create a .env file.
