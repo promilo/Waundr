@@ -12,7 +12,7 @@ At the landing page the user can login either by google or facebook.
 When logging in, the users can create markers and it will broadcast to others users in real time by websockets secure.
 Real time meaning that other uses does not need to refresh the page to get the latest updates.
 
-!["Gif for creating marker"](https://github.com/promilo/Waundr/blob/master/gif/createMarker.gif)
+!["Gif for creating marker"](https://github.com/promilo/Waundr/blob/master/gif/Createmarkers.gif)
 
 Also the app fetches data from the meet up api so its already populated for first time users.
 In addition the users can also confirm the event by clicking on the number or reject the event by clicking on the clear sign
