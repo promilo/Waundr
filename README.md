@@ -1,25 +1,25 @@
 Waundr
 =====================
 
-A real time social walking experience. Take a look at our demo at www.waundr.com
+A real time social walking experience. Take a look at our demo - www.waundr.com
 
 ### How it works
 
-At the landing page the user can login either by google or facebook.
+At the landing page, users can seemlessly authenticate using their existing google or facebook accounts.
 
 !["Screenshot of the landing page"](https://github.com/promilo/Waundr/blob/master/gif/login.png)
 
-When logging in, the users can create markers and it will broadcast to others users in real time by websockets secure.
-Real time meaning that other uses does not need to refresh the page to get the latest updates.
+When logged in, the app geolocates the device and the map caters markers accordingly. The user can create a new point on the map at their location and it will broadcast to the other users in real time using websockets. Additionally users can add friends nearby, and receive requests that render in real time.
 
 !["Gif for creating marker"](https://github.com/promilo/Waundr/blob/master/gif/Createmarkers.gif)
 
-Also the app fetches data from the meet up api so its already populated for first time users.
-In addition the users can also confirm the event by clicking on the number or reject the event by clicking on the clear sign
+The app is currently prepopulating events by polling the Meetups API, creating value for the early adopter userbase.
+
+Crowdsourced real-time feedback is constantly provided by users. The marker timings can be extended by confirms and reduced by rejects.
 
 !["Gif for meetup"](https://github.com/promilo/Waundr/blob/master/gif/meetup.gif)
 
-The app also allows to filter events near you. You can do this by the filter button at the bottom right hand corner.
+Markers can be filtered according to their type, as seen below.
 
 !["Gif for filter"](https://github.com/promilo/Waundr/blob/master/gif/filter.gif)
 ### Loading Waundr
