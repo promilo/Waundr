@@ -59,7 +59,7 @@ cd production
 npm install
 npm start
 ```
-In order to get project veronica working.
+In order to get mobile version working.
 ```
 cd veronica
 react-native run-ios; // react-native run-andriod
